@@ -7,10 +7,14 @@
     // using `node cleanUp.js` or copy and paste into a replit
 
 
-// EX 1:
-function askForName() { console.log("Hello, what is your name?") }
+/* EX 1: I moved the console log to line 11, entered the curly brackets with where they belong on
+on lines 11 and 15, indented the console log. */
+function askForName() {
+  console.log("Hello, what is your name?");
 
-askForName()
+}
+
+askForName();
 
 
 // EX 2:
