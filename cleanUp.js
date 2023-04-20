@@ -41,7 +41,7 @@ makeFreshPesto();
 
 
 /*  EX 4: move open curly bracket to line 44, indent line 45, remove one indent from line 46,
-move return to line 48 and indent, closing curly bracket on line 49, semi colon on line 48, wrote
+move return to line 48 and indent, closing curly bracket on line 49, semi colon on line 48, wrote.
 the print for fun   */
 function average(num1, num2) {
   var sum = num1 + num2;
